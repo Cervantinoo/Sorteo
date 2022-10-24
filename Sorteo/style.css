@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    width: 600px;
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    border: 5px dotted  rgb(44, 150, 84);
+    color: rgba(238, 128, 101, 0.767);    
+}
+
+h2 {
+    text-align: center;
+    margin-left: 35px;
+    text-decoration: underline;
+}
+
+ul {
+    background-color: lightblue;
+}
+
+li {
+    list-style: none;
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+button {
+    border: none;
+    width: 150px;
+    height: 30px;
+    background-color: rgb(44, 150, 84);
+    font-style: bold;
+    color: white;
+    margin: 10px;
+}
+
+button:hover{
+background-color: rgb(21, 83, 21);
+}
+
+
